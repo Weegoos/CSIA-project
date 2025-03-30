@@ -1,0 +1,9 @@
+[submodule "csia-client"]
+	path = csia-client
+	url = https://github.com/Weegoos/csia-client.git
+[submodule "agro-gpt"]
+	path = agro-gpt
+	url = https://github.com/dumanzhusupov/agro-gpt.git
+[submodule "csia-back"]
+	path = csia-back
+	url = https://github.com/bigbrownking/csia-back.git
